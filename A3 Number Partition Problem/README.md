@@ -21,3 +21,5 @@ For example:
 To run the simulation for task 4, run the program as follows:
 
     ./partition 1 0 0
+
+![Image of algorithm codes](https://i.imgur.com/IKLHaKg.png)
