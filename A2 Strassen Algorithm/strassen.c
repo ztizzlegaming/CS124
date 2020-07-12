@@ -320,9 +320,9 @@ int main(int argc, char* argv[]) {
 	//Ensure we have the correct command line arguments
 	if (argc != 4) {
 		printf("Please run as follows: ./strassen 0 [dimension] [inputfile]\n");
-		printf("For debugging run: ./strassen 1 [dimension] [anything]");
-		printf("Debugging will multiply two arbitrary n-dimensional matrices.");
-		printf("The value of [inputfile] does not matter for debugging.");
+		printf("For debugging run: ./strassen 1 [dimension] [anything]\n");
+		printf("Debugging will multiply two arbitrary n-dimensional matrices.\n");
+		printf("The value of [inputfile] does not matter for debugging.\n");
 		return 0;
 	}
 
